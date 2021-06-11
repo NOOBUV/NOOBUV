@@ -38,7 +38,7 @@ ___
 
 
 <a href="https://github.com/noobuv/github-readme-stats">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noobuv&layout=compact&langs_count=8&theme=blue-green" align="right">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noobuv&layout=compact&langs_count=8&theme=blue-green">
 </a>
 
 
