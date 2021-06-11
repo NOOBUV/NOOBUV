@@ -1,39 +1,56 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Vijay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" src="https://raw.githubusercontent.com/NOOBUV/NOOBUV/master/Hi i'M.png" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobuv&label=Profile%20views&color=0e75b6&style=flat" alt="noobuv" /> </p>
+<h1 align="center"> 👨🏻‍💻 &nbsp;About Me</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noobuv" alt="noobuv" /></a> </p>
+___
 
 - 🔭 I’m currently working on **Javascript skills**
-
 - 🌱 I’m currently learning **Javascript, Tailwind and DSA**
-
 - 👯 I’m looking to collaborate on **Frontend and Machine Learning**
-
 - 🤝 I’m looking for help with **CSS and Machine Learning**
-
 - 👨‍💻 All of my projects are available at [https://indominousfirstsite.netlify.app/index.html](https://indominousfirstsite.netlify.app/index.html)
-
 - 💬 Ask me about **HTML, CSS, and Little DSA**
-
 - 📫 How to reach me **utkarshvijay99@gmail.com**
-
 - ⚡ Fun fact **I think I am hilarious!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/indominous99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="indominous99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh vijay (indo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh vijay (indo)" height="30" width="40" /></a>
-<a href="https://kaggle.com/utkarsh vijay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utkarsh vijay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/noobuv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noobuv" height="30" width="40" /></a>
+<h2 align="center">🛠️ Languages & Frameworks</h2>
+
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+
+<h2 align="center">⚙️ Tools</h2>
+
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+___
+
+### 📈 **Github Stats**
+
+
+<a href="https://github.com/noobuv">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=noobuv&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+</a>
+
+
+<a href="https://github.com/noobuv/github-readme-stats">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=noobuv&layout=compact&langs_count=8&theme=blue-green" align="right">
+</a>
+
+
+---
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=noobuv&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noobuv&show_icons=true&locale=en&layout=compact" alt="noobuv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noobuv&show_icons=true&locale=en" alt="noobuv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noobuv&" alt="noobuv" /></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/utkarsh vijay (indo)/"><img src="https://img.shields.io/badge/-Utkarsh%20Vijay-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:utkarshvijay99@gmail.com"><img src="https://img.shields.io/badge/-utkarshvijay99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
