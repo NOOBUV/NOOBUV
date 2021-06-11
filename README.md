@@ -10,7 +10,6 @@ ___
 - 🤝 I’m looking for help with **CSS and Machine Learning**
 - 👨‍💻 All of my projects are available at [https://indominousfirstsite.netlify.app/index.html](https://indominousfirstsite.netlify.app/index.html)
 - 💬 Ask me about **HTML, CSS, and Little DSA**
-- 📫 How to reach me **utkarshvijay99@gmail.com**
 - ⚡ Fun fact **I think I am hilarious!**
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
