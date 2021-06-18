@@ -1,3 +1,4 @@
+# language used is python
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         min_till_now=10000
