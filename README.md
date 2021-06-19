@@ -69,9 +69,9 @@ ___
         <tbody>
             <tr>
                 <td>
-                   &nbsp; <a href="mailto:utkarshvijay99@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon" height="35" width="35"/></a>&nbsp;
-                &nbsp;<a href="https://twitter.com/IndominouS99" target="blank"><img align="center" src="./github-profile/logos/twitter.png" alt="twitter icon" height="35" width="35"/></a>&nbsp;&nbsp;
-                <a href="https://linkedin.com/in/utkarshvijayindo/" target="blank"><img align="center" src="./github-profile/logos/linkedin.png" alt="linkedin icon" height="35" width="35" /></a>&nbsp;&nbsp;      
+                   &nbsp; <a href="mailto:utkarshvijay99@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="google-plus.png" height="35" width="35"/></a>&nbsp;
+                &nbsp;<a href="https://twitter.com/IndominouS99" target="blank"><img align="center" src="twitter.png" alt="twitter icon" height="35" width="35"/></a>&nbsp;&nbsp;
+                <a href="https://linkedin.com/in/utkarshvijayindo/" target="blank"><img align="center" src="linkedin.png" alt="linkedin icon" height="35" width="35" /></a>&nbsp;&nbsp;      
                 <!-- <a href="https://www.instagram.com/avinash32mittal/?hl=it" target="blank"><img align="center" src="./github-profile/logos/instagram.png" alt="instagram icon" height="35" width="35"/></a>&nbsp;&nbsp; -->
                 </td>
                 <td>
