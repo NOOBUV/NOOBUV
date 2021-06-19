@@ -55,7 +55,31 @@ ___
 
 ___
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/utkarsh vijay (indo)/"><img src="https://img.shields.io/badge/-Utkarsh%20Vijay-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:utkarshvijay99@gmail.com"><img src="https://img.shields.io/badge/-utkarshvijay99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+</p> -->
+<div align="center">
+<h3 align="center">Social</h3>
+    <table align="center">
+        <thead>
+            <th>Reach me out</th>
+            <th>Github profile visitors count</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                   &nbsp; <a href="mailto:utkarshvijay99@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon" height="35" width="35"/></a>&nbsp;
+                &nbsp;<a href="https://twitter.com/IndominouS99" target="blank"><img align="center" src="./github-profile/logos/twitter.png" alt="twitter icon" height="35" width="35"/></a>&nbsp;&nbsp;
+                <a href="https://linkedin.com/in/utkarshvijayindo/" target="blank"><img align="center" src="./github-profile/logos/linkedin.png" alt="linkedin icon" height="35" width="35" /></a>&nbsp;&nbsp;      
+                <!-- <a href="https://www.instagram.com/avinash32mittal/?hl=it" target="blank"><img align="center" src="./github-profile/logos/instagram.png" alt="instagram icon" height="35" width="35"/></a>&nbsp;&nbsp; -->
+                </td>
+                <td>
+                    <a href="https://profile-counter.glitch.me/NOOBUV/count.svg">
+                        <img align="center" src="https://profile-counter.glitch.me/NOOBUV/count.svg" alt="img of number of profile's visitors"/>
+                    </a>
+                </td>
+            </tr>        
+        </tbody>
+    </table>
+</div>
