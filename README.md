@@ -14,7 +14,7 @@ ___
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
-<center>
+<p align="center">
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ ___
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 
-</center>
+</p>
 
 <h2 align="center">⚙️ Tools</h2>
 <center>
