@@ -14,7 +14,7 @@ ___
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
-<center>
+<p align="center">
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
