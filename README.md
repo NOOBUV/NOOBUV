@@ -51,7 +51,7 @@ ___
 ---
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=noobuv&show_icons=true&locale=en&layout=demo&theme=white&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=noobuv&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
 ___
