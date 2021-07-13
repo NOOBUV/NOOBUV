@@ -4,12 +4,9 @@
 
 ___
 
-- 🔭 I’m currently working on **Javascript skills**
 - 🌱 I’m currently learning **Javascript, Tailwind and DSA**
-- 👯 I’m looking to collaborate on **Frontend and Machine Learning**
-- 🤝 I’m looking for help with **CSS and Machine Learning**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 - 👨‍💻 All of my projects are available at [https://indominousfirstsite.netlify.app/index.html](https://indominousfirstsite.netlify.app/index.html)
-- 💬 Ask me about **HTML, CSS, and Little DSA**
 - ⚡ Fun fact **I think I am hilarious!**
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
