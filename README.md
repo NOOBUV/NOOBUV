@@ -4,7 +4,7 @@
 
 ___
 
-- 🌱 I’m currently learning **React, Tailwind and DSA**
+- 🌱 I’m currently learning **React, Tailwind and DSA.**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 👨‍💻 All of my projects are available at [https://indominousfirstsite.netlify.app/index.html](https://indominousfirstsite.netlify.app/index.html)
 - ⚡ Fun fact **I think I am hilarious!**
