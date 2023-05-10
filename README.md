@@ -5,7 +5,7 @@
 ___
 
 - 🌱 I’m currently learning **Backend technologies in spring.**
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 - ⚡ Fun fact **I think I am hilarious!**
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
