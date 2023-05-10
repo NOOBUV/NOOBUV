@@ -4,7 +4,7 @@
 
 ___
 
-- 🌱 I’m currently learning **DSA.**
+- 🌱 I’m currently learning **Backend technologies in spring.**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - ⚡ Fun fact **I think I am hilarious!**
 
