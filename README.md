@@ -6,7 +6,7 @@ ___
 
 - 🌱 I’m currently learning **Backend technologies in spring.**
 - 👯 I’m looking to collaborate on **Backend Projects**
-- ⚡ Fun fact **I think I am hilarious!**
+- ⚡ [**My latest Project**](https://github.com/NOOBUV/blogApplication)
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
