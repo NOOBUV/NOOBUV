@@ -4,9 +4,9 @@
 
 ___
 
-- 🌱 I’m currently learning **Backend technologies in spring.**
-- 👯 I’m looking to collaborate on **Backend Projects**
-- ⚡ [**My latest Project**](https://github.com/NOOBUV/blogApplication)
+- 🌱 I’m currently exploring **Generative Ai Implementations.**
+- 👯 I’m looking to collaborate on **Generative Ai Projects**
+- ⚡ [**My latest Project**](https://github.com/NOOBUV/Sales-Advisor)
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
