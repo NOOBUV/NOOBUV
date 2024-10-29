@@ -4,8 +4,8 @@
 
 ___
 
-- 🌱 I’m currently exploring **Generative Ai Implementations.**
-- 👯 I’m looking to collaborate on **Generative Ai Projects**
+- 🌱 I’m a Full-Stack Engineer at Spear Growth, where my day to day task is to create end-to-end automations with llm api's.
+- 👯 Personally i’m looking to collaborate on **Generative Ai Projects**.
 - ⚡ [**My latest Project**](https://github.com/NOOBUV/Sales-Advisor)
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
